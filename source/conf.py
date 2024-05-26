@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Notions'
+project = 'EPLWiki'
 copyright = '2024, EPLStudents'
 author = 'EPLStudents'
 release = '0.0.1'

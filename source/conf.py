@@ -33,3 +33,5 @@ def setup(app):
 
 # -- Options for LaTeX output ------------------------------
 latex_engine = "xelatex"
+latex_theme = "howto"
+latex_elements = {"preamble": r"\setmainfont{Symbola}"}

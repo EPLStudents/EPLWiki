@@ -15,13 +15,13 @@ Next, check the `./source/[html|latex]` folder. You should be able to find the r
 
 ## TODO
 ### Pages
- - [] Home page
- - [] Tutorats
- - [] Erasmus
- - [] Drive
- - [] Discord
- - [] Cours (liste de ressources externes par cours)
+ - [ ] Home page
+ - [ ] Tutorats
+ - [ ] Erasmus
+ - [ ] Drive
+ - [ ] Discord
+ - [ ] Cours (liste de ressources externes par cours)
 
 ### Other
- - [] When a link is pinned in a Discord course channel, the bot makes a PR to add this link to the concerned course's links list
+ - [ ] When a link is pinned in a Discord course channel, the bot makes a PR to add this link to the concerned course's links list
 

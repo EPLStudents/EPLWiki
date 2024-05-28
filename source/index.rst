@@ -10,7 +10,7 @@ Que vous soyez en BAC1 ou un assistant ne sachant pas où se trouve son bureau, 
 
 .. toctree::
     :maxdepth: 2
-    :caption: Contents:
+    :caption: Table des matières
     :numbered:
    
     foo 

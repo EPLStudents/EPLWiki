@@ -8,13 +8,19 @@ Bienvenue sur l'EPLWiki !
 
 Que vous soyez en BAC1 ou un assistant ne sachant pas où se trouve son bureau, ce wiki a pour vocation de vous aider dans votre recherche d'informations |:tada:|
 
+Dans ce guide de survie, vous trouverez des informations sur les cours, les examens, les tutorats, les associations, les services de l'EPL, et bien plus encore.
+
+Un bon départ est le `Discord de l'EPL <https://discord.gg/xDknw6uGxF>`_ où vous pourrez poser vos questions et rencontrer d'autres étudiants.
+
 .. toctree::
     :maxdepth: 2
     :caption: Table des matières
     :numbered:
    
+    drive_epl
     foo 
     bar
+    example
 
 
 TODO [#f1]_
@@ -25,7 +31,7 @@ TODO [#f1]_
     - [ ] Home page
     - [ ] Tutorats
     - [ ] Erasmus
-    - [ ] Drive
+    - [x] Drive
     - [ ] Discord
     - [ ] Cours (liste de ressources externes par cours)
 

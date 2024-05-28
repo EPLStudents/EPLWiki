@@ -1,5 +1,7 @@
 accessible-pygments==0.0.5
 alabaster==0.7.16
+annotated-types==0.7.0
+appdirs==1.4.4
 Babel==2.15.0
 beautifulsoup4==4.12.3
 certifi==2024.2.2
@@ -10,6 +12,9 @@ imagesize==1.4.1
 Jinja2==3.1.4
 MarkupSafe==2.1.5
 packaging==24.0
+pydantic==2.7.1
+pydantic-extra-types==2.7.0
+pydantic_core==2.18.2
 pydata-sphinx-theme==0.15.2
 Pygments==2.18.0
 requests==2.32.2
@@ -20,12 +25,14 @@ Sphinx==7.3.7
 sphinx-book-theme==1.1.2
 sphinx-copybutton==0.5.2
 sphinx-togglebutton==0.3.2
+sphinx_immaterial==0.11.11
 sphinxcontrib-applehelp==1.0.8
 sphinxcontrib-devhelp==1.0.6
 sphinxcontrib-htmlhelp==2.0.5
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.7
 sphinxcontrib-serializinghtml==1.1.10
+sphinxemoji==0.3.1
 typing_extensions==4.12.0
 urllib3==2.2.1
 wheel==0.43.0

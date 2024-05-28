@@ -1,0 +1,12 @@
+li.task-list-item {
+    display: flex;
+}
+
+li.task-list-item > p {
+    margin: 0;
+}
+
+li.task-list-item > label {
+    height: 8px;
+    margin-right: 8px;
+} 

@@ -15,12 +15,12 @@ Un bon départ est le `Discord de l'EPL <https://discord.gg/xDknw6uGxF>`_ où vo
 .. toctree::
     :maxdepth: 2
     :caption: Table des matières
-    :numbered:
    
     drive_epl
     foo 
     bar
     example
+    course/index
 
 
 TODO [#f1]_

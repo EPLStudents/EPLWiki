@@ -8,7 +8,7 @@ Execute the following commands in the repository's root directory
 ```sh
 python3 -m venv .venv
 source .venv/bin/activate
-python3 -m pip install -R requirements.txt
+python3 -m pip install -r requirements.txt
 make [html|latexpdf]
 ``` 
 Next, check the `./source/[html|latex]` folder. You should be able to find the result of your build. 

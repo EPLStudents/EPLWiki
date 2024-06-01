@@ -18,13 +18,13 @@ Chaque filière représente 30 crédits ECTS.
 
 Toutes les filières sont reprises juste ici :
 
-* `BIOMED <filiere/BIOMED>`_
-* `ELEC <filiere/ELEC>`_
-* `GC <filiere/GC>`_
-* `INFO <filiere/INFO>`_
-* `KIMA <filiere/KIMA>`_
-* `MAP <filiere/MAP>`_
-* `MECA <filiere/MECA>`_
+* `BIOMED <filiere/BIOMED/index.html>`_
+* `ELEC <filiere/ELEC/index.html>`_
+* `GC <filiere/GC/index.html>`_
+* `INFO <filiere/INFO/index.html>`_
+* `KIMA <filiere/KIMA/index.html>`_
+* `MAP <filiere/MAP/index.html>`_
+* `MECA <filiere/MECA/index.html>`_
 
 .. note::
     Vous avez jusqu'à Janvier de votre 2 ème année pour faire vos choix définitifs de filière. Consultez bien le site de l'UCLouvain pour vous assurer que la finalité de votre Master soit compatible avec vos Filières

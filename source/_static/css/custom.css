@@ -10,3 +10,11 @@ li.task-list-item > label {
     height: 8px;
     margin-right: 8px;
 } 
+
+.red {
+    color:red;
+}
+
+.green {
+    color:green;
+}

@@ -2,6 +2,9 @@
 Le Bachelier
 ##############
 
+.. role:: red
+.. role:: green
+
 .. toctree::
     :maxdepth: 1
 
@@ -11,14 +14,33 @@ Le bachelier dure 3 ans et est réparti sur 6 semestres. Il est composé de 180 
 
 Les 3 premiers quadrimestres sont communs à tous les étudiants. Les 3 derniers quadrimestres ont une partie commune et une partie spécifique à chaque orientation. Vous avez le choix entre 2 orientations.
 
-Chaque filière représente 30 crédits ECTS.
+Chaque filière représente 30 crédits ECTS. 
+
+Toutes les filières sont reprises juste ici :
+
+* `BIOMED <filiere/BIOMED>`_
+* `ELEC <filiere/ELEC>`_
+* `GC <filiere/GC>`_
+* `INFO <filiere/INFO>`_
+* `KIMA <filiere/KIMA>`_
+* `MAP <filiere/MAP>`_
+* `MECA <filiere/MECA>`_
 
 .. note::
-    Vous avez jusqu'à Janvier de votre 2 ème année pour faire votre choix définitifs de filière. Consultez bien le site de l'UCLouvain pour vous assurer que la finalité de votre Master soit compatible avec vos Filières
+    Vous avez jusqu'à Janvier de votre 2 ème année pour faire vos choix définitifs de filière. Consultez bien le site de l'UCLouvain pour vous assurer que la finalité de votre Master soit compatible avec vos Filières
+
+.. csv-table:: Accès au master -- Filière recommandée
+   :file: bac.csv
+   :widths: 40,20,20,20,20,20,20,20,20,20,20,20,20
+   :header-rows: 1
+   :stub-columns: 1
+
+.. warning::
+    Il est possible d'accéder à certains masters avec une filière différente de celle recommandée. Vous devrez cependant suivre certains cours considérés comme des **Pré-requis**. Il est donc important de bien choisir sa filière en fonction de son master souhaité.
 
 .. TODO::
 
-    Faire un petit tableau récap avec quel bachelier pour quel master
+    Faire un petit script JS qui montre qu'est-ce qu'on peut faire avec certaines filières
 
 Il existe également différentes mineures qui peuvent être combinées avec une  Sciences de l'ingénieur. Ces mineures sont diverses et variées. Vous pouvez retrouver des mineures en architecture, physique, musicologie, ... Vous pouvez trouver plus d'amples informations sur les mineures sur le `site de l'UCLouvain <https://uclouvain.be/prog-2023-fsa1ba-mineures>`_.
 

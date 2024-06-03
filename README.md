@@ -13,6 +13,8 @@ make [html|latexpdf]
 ``` 
 Next, check the `./source/[html|latex]` folder. You should be able to find the result of your build. 
 
+:warning: The Symbola font is required to obtain a correct rendering. 
+
 ## TODO
 ### Pages
  - [ ] Home page

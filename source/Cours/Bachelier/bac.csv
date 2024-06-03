@@ -1,8 +1,8 @@
-Master,BIOMED,CYSE,DATEI, ELEC,ELME, FYAP,GC, INFO, KIMA, MAP, MECA, NRGY
-Bac BIOMED,:green:`✔`,✗,✗,✗,✗,✗,✗,✗,✗,✗,✗,✗
-Bac ELEC,✗,✗,✗,:green:`✔`,:green:`✔`,✗,✗,✗,✗,✗,✗,:green:`✔`
-Bac GC,✗,✗,✗,✗,✗,✗,:green:`✔`,✗,✗,✗,✗,✗
-Bac INFO,✗,:green:`✔`,:green:`✔`,✗,✗,✗,✗,:green:`✔`,✗,✗,✗,✗
-Bac KIMA,✗,✗,✗,✗,✗,:green:`✔`,✗,✗,:green:`✔`,✗,✗,✗
-Bac MAP,✗,✗,:green:`✔`,✗,✗,✗,✗,✗,✗,:green:`✔`,✗,✗
-Bac MECA,✗,✗,✗,✗,:green:`✔`,✗,✗,✗,✗,✗,:green:`✔`,:green:`✔`
+Master   ,CYSE       ,DATEI      ,ELEC        ,ELME       ,FYAP       ,GBIO       ,GC         ,INFO       ,KIMA       ,MAP        ,MECA       ,NRGY
+Bac ELEC ,✗          ,✗          ,:green:`✔` ,:green:`✔` ,✗          ,✗          ,✗          ,✗          ,✗          ,✗          ,✗          ,:green:`✔`
+Bac FYKI ,✗          ,✗          ,✗          ,✗          ,:green:`✔` ,✗          ,✗          ,✗          ,:green:`✔` ,✗          ,✗          ,✗
+Bac GBIO ,✗          ,✗          ,✗          ,✗          ,✗          ,:green:`✔` ,✗          ,✗          ,✗          ,✗          ,✗          ,✗
+Bac GC   ,✗          ,✗          ,✗          ,✗          ,✗          ,✗          ,:green:`✔` ,✗          ,✗          ,✗          ,✗          ,✗
+Bac INFO ,:green:`✔` ,:green:`✔` ,✗          ,✗          ,✗          ,✗          ,✗          ,:green:`✔` ,✗          ,✗          ,✗          ,✗
+Bac MAP  ,✗          ,:green:`✔` ,✗          ,✗          ,✗          ,✗          ,✗          ,✗          ,✗          ,:green:`✔` ,✗          ,✗
+Bac MECA ,✗          ,✗          ,✗          ,:green:`✔` ,✗          ,✗          ,✗          ,✗          ,✗          ,✗          ,:green:`✔` ,:green:`✔`

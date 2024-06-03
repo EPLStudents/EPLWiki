@@ -18,11 +18,11 @@ Chaque filière représente 30 crédits ECTS.
 
 Toutes les filières sont reprises juste ici :
 
-* `BIOMED <filiere/BIOMED/index.html>`_
 * `ELEC <filiere/ELEC/index.html>`_
+* `FYKI <filiere/FYKI/index.html>`_
+* `GBIO <filiere/GBIO/index.html>`_
 * `GC <filiere/GC/index.html>`_
 * `INFO <filiere/INFO/index.html>`_
-* `KIMA <filiere/KIMA/index.html>`_
 * `MAP <filiere/MAP/index.html>`_
 * `MECA <filiere/MECA/index.html>`_
 

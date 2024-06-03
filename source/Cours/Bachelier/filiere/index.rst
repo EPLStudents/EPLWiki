@@ -4,10 +4,10 @@ Les Filières
 
 .. toctree::
 
-    KIMA/index 
+    FYKI/index 
     GC/index
     ELEC/index
-    BIOMED/index
+    GBIO/index
     INFO/index 
     MAP/index 
     MECA/index

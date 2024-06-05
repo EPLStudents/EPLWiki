@@ -18,6 +18,7 @@ Un bon départ est le `Discord de l'EPL <https://discord.gg/xDknw6uGxF>`_ où vo
     :numbered:
    
     drive_epl
+    Cours/index
     foo 
     bar
     example

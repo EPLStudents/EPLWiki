@@ -6,7 +6,7 @@
 Bienvenue sur l'EPLWiki !
 ===================================
 
-Que vous soyez en BAC1 ou un assistant ne sachant pas où se trouve son bureau, ce wiki a pour vocation de vous aider dans votre recherche d'informations |:tada:|
+Que vous soyez en BAC1 ou un assistant ne sachant pas où se trouve son bureau, ce wiki a pour vocation de vous aider dans votre recherche d'informations |:tada:| |:question:|
 
 Dans ce guide de survie, vous trouverez des informations sur les cours, les examens, les tutorats, les associations, les services de l'EPL, et bien plus encore.
 
@@ -22,6 +22,7 @@ Un bon départ est le `Discord de l'EPL <https://discord.gg/xDknw6uGxF>`_ où vo
     bar
     example
     erasmus
+    tutorats
 
 TODO [#f1]_
 -------------
@@ -29,7 +30,7 @@ TODO [#f1]_
 .. task-list::
 
     - [ ] Home page
-    - [ ] Tutorats
+    - [ ] :ref:`tutorats`
     - [ ] :ref:`erasmus`
     - [x] Drive
     - [x] Discord

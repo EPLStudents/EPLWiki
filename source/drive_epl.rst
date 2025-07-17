@@ -2,7 +2,7 @@
 Drive EPL
 ============================
 
-Le lien du Drive EPL est le suivant : `Drive EPL <https://uclouvain-my.sharepoint.com/:f:/g/personal/martin_brans_student_uclouvain_be/EgZKYEd1tThAlv8yvdVhTvkBUzjN2z-dN5jx4wE0a1e94g>`_
+Le lien du Drive EPL est le suivant : `Drive EPL <https://epl-students.be/drive/>`_
 
 .. note::
     Pour accéder au Drive EPL, vous devez être connecté à votre compte Microsoft de l'UCLouvain.
